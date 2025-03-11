@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-import HeaderCPN from './components/header/index.vue'
-import FooterCPN from './components/footer/index.vue'
-import MainCPN from './components/main/index.vue'
+import HelloWorld from './components/HelloWorld.vue';
+import TheWelcome from './components/TheWelcome.vue';
+import HeaderCPN from './components/header/index.vue';
+import FooterCPN from './components/footer/index.vue';
+import MainCPN from './components/main/index.vue';
 </script>
 
 <template>

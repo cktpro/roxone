@@ -3,9 +3,9 @@
     <div class="container mx-auto">
       <div class="flex justify-between py-[60px]">
         <div class="flex flex-col gap-1.5">
-          <h1 class="text-[50px]">Logo</h1>
-          <p>© 2019 – 2025 Rey Theme. All rights reserved.</p>
-          <p>Our website is proudly built with WordPress, Elementor and <b>Rey Theme.</b>b></p>
+          <h1 class="text-[50px]">Roxone.dev</h1>
+          <p>© 2021 – 2025 . All rights reserved.</p>
+          <p>Our website is proudly built with Vue 3 and PHP Laravel</p>
         </div>
         <div class="">
           <ul class="flex flex-col gap-1.5">
